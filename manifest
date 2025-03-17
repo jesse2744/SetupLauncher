@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "files": [
+        {
+            "name": "MyVisa.zip",
+            "url": "https://github.com/your-username/your-repo/releases/download/v1.0.0/MyVisa.zip",
+            "checksum": "abc123def456"
+        }
+    ]
+}

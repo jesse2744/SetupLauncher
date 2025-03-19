@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
+  "version": "2.0.0",
   "files": [
     {
       "name": "Fill.It.exe",
-      "url": "https://github.com/jesse2744/SetupLauncher/releases/download/v1.1.1/Fill.It.exe",
+      "url": "https://github.com/jesse2744/SetupLauncher/releases/download/v2.0.0/Fill.It.exe",
       "checksum": "abc123def456"
     }
   ]

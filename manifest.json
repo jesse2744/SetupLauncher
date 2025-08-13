@@ -3,8 +3,9 @@
   "files": [
     {
       "name": "Fill.It.exe",
-      "url": "https://github.com/jesse2744/SetupLauncher/releases/download/v2.3.0/Fill.It.exe",
+      "url": "https://github.com/jesse2744/SetupLauncher/releases/download/v3.0.0/Fill.It.exe",
       "checksum": "abc123def456"
     }
   ]
 }
+
